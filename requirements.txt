@@ -1,0 +1,5 @@
+discordbot.py
+discord.py
+ffmpeg
+youtube-dl
+PyNaCl
