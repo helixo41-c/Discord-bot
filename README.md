@@ -3,7 +3,7 @@ Discord bot
 
 # Launching
 
-For launching code you need to create a token.txt file and put there your bot token.
+to launch the bot, you must create a token.txt file in the repository folder (where the boy.py file is located) and insert the token from your bot there.
 then
 ```
 pip install -r requirements.txt
